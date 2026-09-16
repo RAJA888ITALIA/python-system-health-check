@@ -1,0 +1,7 @@
+INFO Server booted successfully
+WARNING Disk space low (15% remaining)
+ERROR Database connection failed
+INFO User admin logged in
+CRITICAL Out of memory - process terminated
+ERROR Disk write failure on dev1
+WARNING High CPU temperature detected

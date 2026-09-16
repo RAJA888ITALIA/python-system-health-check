@@ -2,7 +2,7 @@
 
 A Python CLI tool that automates daily IT support diagnostics: local system health checks (CPU, RAM, disk), remote host reachability checks, and log file triage — all rolled into a single incident report.
 
-[English](README.md) | [Italiano](README.it.md)
+**English** | [Italiano](README.it.md)
 
 ## Features
 
